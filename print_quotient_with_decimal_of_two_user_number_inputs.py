@@ -4,6 +4,6 @@
 num1 = float(input("First Number: "))
 num2 = float(input("Second Number: "))
 
-# Print quotient w/o decimals (whole number only)
+# Print quotient
 quo = num1 / num2
 print(quo)
