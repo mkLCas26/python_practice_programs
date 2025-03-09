@@ -7,7 +7,7 @@ sum = 0
 # While Loop for 10 user inputs and sum
 while counter < 10:
     counter += 1
-    ten_numbers = float(input("Enter 10 numbers: ")) 
+    ten_numbers = int(input("Enter 10 numbers: ")) 
 
     sum += ten_numbers
 
