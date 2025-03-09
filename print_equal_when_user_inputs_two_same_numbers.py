@@ -7,5 +7,3 @@ num2 = float(input("Second Number: "))
 # If-else statement for determining equal number inputs
 if num1 == num2:
     print("Equal")
-else:
-    print("Unequal")
