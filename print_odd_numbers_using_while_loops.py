@@ -6,4 +6,4 @@ number = 1
 # While loop for odd numbers in 0-100
 while number < 100:
     print(number)
-    number +=2
+    number += 2
